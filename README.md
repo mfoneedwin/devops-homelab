@@ -3,6 +3,19 @@
 ## 📌 Overview
 Production-ready DevOps platform demonstrating CI/CD, Infrastructure as Code, containerization, Kubernetes, and monitoring.
 
+## 🎯 Why This Project Exists
+
+I built this DevOps home lab to demonstrate practical, production-aligned experience with:
+- CI/CD automation (GitHub Actions)
+- Containerization (Docker)
+- Infrastructure as Code (Terraform)
+- Kubernetes deployment patterns
+- Monitoring and alerting (Prometheus/Grafana)
+- Secure web delivery (Nginx + HTTPS)
+
+The focus is on repeatable automation, debugging, and real operational workflows rather than one-off tutorials.
+
+
 ## 🧱 Architecture
 (Add draw.io diagram)
 
