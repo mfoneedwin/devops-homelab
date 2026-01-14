@@ -17,7 +17,9 @@ The focus is on repeatable automation, debugging, and real operational workflows
 
 
 ## 🧱 Architecture
-(Add draw.io diagram)
+
+<img width="1211" height="371" alt="Devop Architecture drawio" src="https://github.com/user-attachments/assets/bcef9363-d512-4c09-a497-be34a5238d45" />
+
 
 ## 🛠 Tech Stack
 - Node.js
